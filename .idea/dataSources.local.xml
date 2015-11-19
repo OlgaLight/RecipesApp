@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
-    <data-source name="Rails recipes_app: development" uuid="caae6be7-5a4b-4b46-826f-d94a32ecee2c">
+    <data-source name="Rails recipes_app: test" uuid="3d137e52-01b5-461c-bbd8-95d2f2244fea">
       <auth-required>false</auth-required>
-      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails recipes_app: development" uuid="3d0085ad-6c42-41fa-9efe-012958b1462c">
+      <auth-required>false</auth-required>
     </data-source>
   </component>
 </project>
