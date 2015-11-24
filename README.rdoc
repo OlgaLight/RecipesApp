@@ -8,7 +8,7 @@ description: text
 - summary must be present
 - summary must be beetwen 10 characters and less than 150 characters
 - description must be present
-- description must be beetwen 20 characters and less than 500 characters
+- description must be beetwen 20 characters and less than 2000 characters
 - chef_id must be present
 
 testing specs for chefs:
