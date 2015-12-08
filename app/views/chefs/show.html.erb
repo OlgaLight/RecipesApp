@@ -17,7 +17,7 @@
 
 <% @recipes.each do |recipe| %>
 <div class="row">
-<div class="cold-lg-6 well col-lg-offset-3">
+<div class="col-lg-6 well col-lg-offset-3">
   <h4><%= link_to recipe.name, recipe_path(recipe) %></h4>
   <p><%= recipe.summary %></p>
   <p>
